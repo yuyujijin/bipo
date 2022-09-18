@@ -1,0 +1,5 @@
+pygame==2.1.2
+python-vlc==3.0.16120
+pytube==12.1.0
+tinytag==1.8.1
+youtube-dl==2021.12.17
